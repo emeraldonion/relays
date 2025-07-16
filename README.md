@@ -1,2 +1,40 @@
-# relays
-Tor relay names
+# Emerald Onion's Tor relay names
+
+In alphabetical order:
+
+- **Aegis** – 
+- **Barlow** – [https://en.wikipedia.org/wiki/John_Perry_Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)  
+- **Binney** – [https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer)](https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer))  
+- **Bowden** – [https://en.wikipedia.org/wiki/Caspar_Bowden](https://en.wikipedia.org/wiki/Caspar_Bowden)  
+- **Diffie** – [https://en.wikipedia.org/wiki/Whitfield_Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie)  
+- **Dingledine** – [https://en.wikipedia.org/wiki/Nick_Dingledine](https://en.wikipedia.org/wiki/Nick_Dingledine)  
+- **Dwork** – [https://en.wikipedia.org/wiki/Cynthia_Dwork](https://en.wikipedia.org/wiki/Cynthia_Dwork)  
+- **Drake** – [https://en.wikipedia.org/wiki/Thomas_Drake_(whistleblower)](https://en.wikipedia.org/wiki/Thomas_Drake_(whistleblower))  
+- **Ellsberg** – [https://en.wikipedia.org/wiki/Daniel_Ellsberg](https://en.wikipedia.org/wiki/Daniel_Ellsberg)  
+- **Fellwock** – [https://en.wikipedia.org/wiki/Perry_Fellwock](https://en.wikipedia.org/wiki/Perry_Fellwock)  
+- **Goldwasser** – [https://en.wikipedia.org/wiki/Shafi_Goldwasser](https://en.wikipedia.org/wiki/Shafi_Goldwasser)  
+- **Goodman** – [https://en.wikipedia.org/wiki/Amy_Goodman](https://en.wikipedia.org/wiki/Amy_Goodman)  
+- **Gun** – [https://en.wikipedia.org/wiki/Katharine_Gun](https://en.wikipedia.org/wiki/Katharine_Gun)  
+- **Hellman** – [https://en.wikipedia.org/wiki/Martin_Hellman](https://en.wikipedia.org/wiki/Martin_Hellman)  
+- **Kaminsky** – [https://en.wikipedia.org/wiki/Dan_Kaminsky](https://en.wikipedia.org/wiki/Dan_Kaminsky)  
+- **Kiriakou** – [https://en.wikipedia.org/wiki/John_Kiriakou](https://en.wikipedia.org/wiki/John_Kiriakou)  
+- **Klein** – [https://en.wikipedia.org/wiki/Mark_Klein](https://en.wikipedia.org/wiki/Mark_Klein)  
+- **Landau** – [https://en.wikipedia.org/wiki/Susan_Landau](https://en.wikipedia.org/wiki/Susan_Landau)  
+- **Mathewson** – [https://en.wikipedia.org/wiki/Nick_Mathewson](https://en.wikipedia.org/wiki/Nick_Mathewson)  
+- **Merkle** – [https://en.wikipedia.org/wiki/Ralph_Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle)  
+- **Manning** – [https://en.wikipedia.org/wiki/Chelsea_Manning](https://en.wikipedia.org/wiki/Chelsea_Manning)  
+- **Merrill** – [https://en.wikipedia.org/wiki/Nicholas_Merrill](https://en.wikipedia.org/wiki/Nicholas_Merrill)  
+- **Moxie** – [https://en.wikipedia.org/wiki/Moxie_Marlinspike](https://en.wikipedia.org/wiki/Moxie_Marlinspike)  
+- **Mudge** – [https://en.wikipedia.org/wiki/Mudge_(hacker)](https://en.wikipedia.org/wiki/Mudge_(hacker))  
+- **Perlman** – [https://en.wikipedia.org/wiki/Radia_Perlman](https://en.wikipedia.org/wiki/Radia_Perlman)  
+- **Poitras** – [https://en.wikipedia.org/wiki/Laura_Poitras](https://en.wikipedia.org/wiki/Laura_Poitras)  
+- **Samarati** – [https://en.wikipedia.org/wiki/Pierangela_Samarati](https://en.wikipedia.org/wiki/Pierangela_Samarati)  
+- **Snowden** – [https://en.wikipedia.org/wiki/Edward_Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)  
+- **Sweeney** – [https://en.wikipedia.org/wiki/Latanya_Sweeney](https://en.wikipedia.org/wiki/Latanya_Sweeney)  
+- **Swartz** – [https://en.wikipedia.org/wiki/Aaron_Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)  
+- **Syverson** – [https://en.wikipedia.org/wiki/Paul_Syverson](https://en.wikipedia.org/wiki/Paul_Syverson)  
+- **Tice** – [https://en.wikipedia.org/wiki/Russ_Tice](https://en.wikipedia.org/wiki/Russ_Tice)  
+- **Turing** – [https://en.wikipedia.org/wiki/Alan_Turing](https://en.wikipedia.org/wiki/Alan_Turing)  
+- **Winner** – [https://en.wikipedia.org/wiki/Reality_Winner](https://en.wikipedia.org/wiki/Reality_Winner)  
+- **Young** – [https://en.wikipedia.org/wiki/Cryptome](https://en.wikipedia.org/wiki/Cryptome)  
+- **Zimmermann** – [https://en.wikipedia.org/wiki/Philip_R._Zimmermann](https://en.wikipedia.org/wiki/Philip_R._Zimmermann)  

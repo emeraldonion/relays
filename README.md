@@ -4,7 +4,7 @@ In alphabetical order:
 
 - **Aegis** – 
 - **Barlow** – [https://en.wikipedia.org/wiki/John_Perry_Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow)  
-- **Binney** – [https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer)](https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer))  
+- **Binney** – [https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer)](https://en.wikipedia.org/wiki/William_Binney_(intelligence_officer))
 - **Bowden** – [https://en.wikipedia.org/wiki/Caspar_Bowden](https://en.wikipedia.org/wiki/Caspar_Bowden)  
 - **Diffie** – [https://en.wikipedia.org/wiki/Whitfield_Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie)  
 - **Dingledine** – [https://en.wikipedia.org/wiki/Nick_Dingledine](https://en.wikipedia.org/wiki/Nick_Dingledine)  
